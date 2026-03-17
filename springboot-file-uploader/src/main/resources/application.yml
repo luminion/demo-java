@@ -7,4 +7,4 @@ spring:
       max-file-size: 5120MB
       max-request-size: 5012MB
 #\u6587\u4EF6\u4FDD\u5B58\u8DEF\u5F84
-chunkUploadPath: /Users/bootystar/Downloads
+chunkUploadPath: D:\\temp
